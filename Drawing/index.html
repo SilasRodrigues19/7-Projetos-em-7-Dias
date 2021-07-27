@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drawing</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="shortcut icon" href="https://image.flaticon.com/icons/png/512/16/16275.png">
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Drawing</h1>
+  <div class="container">
+
+    <canvas id="tela" width="800" height="400"></canvas>
+    <div class="utilities">
+        <div class="colorArea">
+          <span data-color="#000" style="background-color: #000" class="color active"></span>
+          <span data-color="#0000ff" style="background-color: #0000ff" class="color"></span>
+          <span data-color="#ff0000" style="background-color: #ff0000" class="color"></span>
+          <span data-color="#00ff00" style="background-color: #00ff00" class="color"></span>
+          <span data-color="#ffff00" style="background-color: #ffff00" class="color"></span>
+          <span data-color="#808080" style="background-color: #808080" class="color"></span>
+          <span data-color="#000" style="background-color: #000" class="color palette"></span>
+        </div>
+        <div class="actions">
+          <button id="btnPlus">+</button>
+          <button id="btnLess">-</button>
+          <button class="clear"><i class="fas fa-eraser"></i></button>
+        </div>
+    </div>
+
+    <input type="text" id="hex">
+    <input type="color" id="color" class="color">
+
+</div>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js" integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</body>
+</html>
