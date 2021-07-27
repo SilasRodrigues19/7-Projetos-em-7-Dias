@@ -31,7 +31,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-drawing">Drawing Project</a>
+      <a href="#about-drawing-project">Drawing Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -47,7 +47,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-weather">Weather Project</a>
+      <a href="#about-weather-project">Weather Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
