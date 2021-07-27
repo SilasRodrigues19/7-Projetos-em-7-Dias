@@ -62,7 +62,7 @@
 <!-- ABOUT THE DRAWING -->
 ## About Drawing Project
 
-[![About View Drawing Project][product-screenshot]](https://b7web.com.br/d7)
+[![About View Drawing Project][product-screenshot]](https://drawingcanvas.vercel.app)
                           
 This project was built during a JavaScript event using Canvas.
 
@@ -102,7 +102,7 @@ This work is licensed under a MIT License. See `LICENSE` for more information
 <!-- ABOUT THE WEATHER -->
 ## About Weather Project
 
-[![About View Weather Project][product-screenshot2]](https://b7web.com.br/d7)
+[![About View Weather Project][product-screenshot2]](https://weatherproject.vercel.app)
                           
 This project was built during a JavaScript event with the purpose of use API.
                           
