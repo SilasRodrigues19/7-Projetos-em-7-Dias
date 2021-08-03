@@ -107,7 +107,7 @@ This work is licensed under a MIT License. See `LICENSE` for more information
 This project was built during a JavaScript event with the purpose of use API.
                           
 The website is one page:
-* **Step 1**: enter the desited City or State and click the button.
+* **Step 1**: enter the desired City or State and click the button.
 * **Step 2**: it show the API data such as maximum and minimum weather, current weather and wind speed.
 
 ### Built With
