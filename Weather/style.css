@@ -115,9 +115,9 @@ input:-webkit-autofill:active {
 }
 
 .temp {
-  position: absolute;
-    left: 52%;
-    bottom: 25px;
+  position: relative;
+  left: 4rem;
+  top: 11rem;
 }
 
 .description, .min, .max {
