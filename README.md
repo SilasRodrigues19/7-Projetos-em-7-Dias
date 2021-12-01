@@ -11,6 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<samp>
 <p align="center">
   <a href="https://b7web.com.br/d7/">
     <img src="https://b7web.com.br/d7/images/logo.png" alt="Logo" width="50" height="50">
